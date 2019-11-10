@@ -1,0 +1,161 @@
+PolkaBase 1st Meetup Review: GitHub Repository & Medium
+
+
+Stay Tuned with Us:
+Twitter: PolkaBase https://twitter.com/Polkabase_com?s=17 
+Medium: PolkaBase https://medium.com/@polkabase 
+WeChat Official Account: PolkaBase
+Video Recording in YouTube - PolkaBase: https://www.youtube.com/channel/UCquHLrpaU96VpI041FuIOOw/featured 
+
+When Blockchain Meets Industry 4.0
+Application and Opportunity for Polkadot Ecosystem in Industry
+
+PolkaBase is a global leading projection empowering developers and end-users of the polkadot ecosystem, which is dedicated to building a technology that can promote blockchain technology and applications, generating high-quality content and product value, and attracting the outside of the blockchain industry. A new generation community require that, In the future reality scenario, data resources need to be shared across several industries and databases. 
+
+Moke Lin, the Polkadot community contributor and the leading member of PolkaBase
+
+When blockchain meets industry 4.0. that what we gonna talk in Hangzhou, the city newly throned as the Global Centre of Digital Economy by ¡®World Bank¡¯and China government. On the date of 6th Novermber this Wednesday, PolkaBase held the first sharing session of Meetup Industry Empowerment at ITC Guigu International Center, Hangzhou. Several granted polkadot-based projects shared their mindsets and progress of their landing applications such as Internet of Things, AI, and PIV (personal identity verification).
+
+
+Era of Data Sharing in Internet of Things ¨C MXC Smart City & MatchX IoT Tech.
+
+Sheen Hu, CEO and co-founder of MXC Foundation and MatchX IoT Tech Ltd, A global leading AI Sensor, IoT and Smart City technology solution provider, grant rewarder Wave1 from Web3 Foundation presents their technology breakthroughs.
+
+
+Sheen Hu, CEO of MXC Foundation and MatchX, on blockchain with AI Sensor, IoT and Smart City
+
+Developed by the non-profit foundation based in Berlin, Germany, the company is dedicated to the research and application of low-power wide-area Internet of Things (LPWAN) and blockchain technologies. The MXProtocol polar domain protocol is the core of MXC, based on the complete decentralized protocol based on LPWAN. 
+
+
+MatchX's neural network sensor for face recognition
+
+As one of the pioneers of the hardware blockchain, MXC developed the AI data sensor and big data cloud platform based on hardware, and combined with the blockchain encryption protocol, while meeting data privacy, analysis and intelligence on hardware transmission.
+
+Privacy-preserving Libra - pLibra
+
+pLibra is the first application of Phala Network, a confidential intelligent contract platform based on Trusted Computing Technology (TEE), which aims to provide enterprises and users with infrastructure for confidential computing and data protection.
+
+
+Marvin Tong, pLibra CEO, on combination of trusted computing and industries
+
+Founded in 2018, this talented team has always been committed to the development of trusted computing technology. The founding team has extensive Internet experience: Google, Tencent, Didi, Dajiang. Behind the team is research support from cutting-edge technology: Fudan University System Software and Security Lab.
+
+In the current blockchain application, the data of the public chain is completely open, and it is obviously inappropriate to spread the privacy data. The better the alliance chain, the data is only spread between the alliances, but it cannot completely eliminate the intentional or unintentional disclosure of the alliance members, and Third-party organizations that do not join the alliance cannot call the non-confidential data they need, and there are still many inconveniences.
+
+Identity Privacy ¨C Litentry
+
+Litentry is an authorisation and data exchange infrastructure on Polkadot substrate. Team base of Litentry is in Berlin, Germany. The main members are from Berlin, a grant rewarder of Wave 3 from Web3 Foundation.
+
+The same massive identity data also poses a problem for enterprises. On the one hand, SMEs must use the centralized network platform to serve through information authorization, which has a dependence on the platform and cannot freely choose the tools for development. Some real information service providers also need to pay the platform. 
+
+Matter fact, the information obtained by the giants is becoming more and more bloated, which not only increases the systemic risk of identity leakage, but also requires high management costs to avoid single points of failure, and the risks and costs are ultimately passed on to users.
+
+Essences of Our Guests
+
+MXC Foundation and MatchX
+
+MatchX offers the world's longest distance low-power gateway with a 43 km link range. AI Sensor of MXC costs 1/5 of regular sensor annually, which enable to build an urban operating system acting as city¡¯s brain, which has been sold to three More than a dozen countries, the German Railways and Bosch in Europe have used. MatchX solves technical solutions as follows:
+
+- Solving the problem of IoT conflicts in the free frequency band through ACC
+- Solving the problem of LPWAN IoT downlink resource allocation through intelligent bidding technology
+- Solving the problem of cross-chain transactions of IoT data through the cross-chain data market
+?
+Current clients: Deutsche Bahn, BOSCH, Berlin Science and Technology Bureau, Carnegie Mellon University, Canadian Tires, Enlink, M2B, Aikang Technology.
+
+Current Investor/KOL: Fenbushi Capital, Backward Fund, Jiedian Capital, Pre-Angel, Rongming Capital, Jiangsu Aikang Technology, Great Wall Club GMIC, Du Capital, LongHash, Blockassets, Candaq Ventures, Mandy B, Crypto Wolf, Wandarin, Atlantic Labs, etc.
+
+For example, in Shenzhen, MXC has been applied to shared parking spaces, automatically manages parking spaces through 500 sensors, and through AI big data analysis, it can learn about customer behavior and consumption habits without obtaining customer's private information, which is convenient for enterprises and governments to manage. 
+
+Official website: 
+MatchX: https://www.matchx.io 
+MXC Foundation: www.mxc.org 
+White paper: 
+MXProtocol: https://www.mxc.org/hubfs/WP/MXC_technical_whitepaper.pdf 
+Smart Machine Bidding: https://www.mxc.org/hubfs/downloads/mxc_smb_whitepaper.pdf 
+MXC Data Economy: https://www.mxc.org/hubfs/WP/MXC_data_economy_whitepaper.pdf 
+MXC Tokenomics: https://www.mxc.org/hubfs/WP/MXC_economic_whitepaper.pdf 
+Official Social Media ¨C Twitter: @MXCfoundation @matchx_iot
+
+
+pLibra
+
+- Compatible with Intel, ARM, and Huawei protocols, no special hardware is required
+- Support any chain! It can help the alliance chain and the public chain to run smart contracts that need to protect confidentiality.
+- Network effect: The goal is to become the world's leading trusted computing protocol standard and trusted computing platform.
+
+Currently TEE only runs locally, such as: authentication: By connecting TEE to a trusted and secure network, PhalaNetwork has greatly released the application scenario of trusted computing: smart contracts can also run in a trusted environment, solving a big problem in blockchain. PhalaNetwork can unlock the edge computing power of hundreds of millions of smart devices by expanding both ends of supply and demand.
+
+Trusted Computing Eco-Win-Win Plan:
+Purpose: Accelerate the national strategy
+Planned objects: Alliance chain and alliance chain application; Independent intellectual property public ownership chain and application party; Web3.0 ecological builder.
+Win-to-win method: Free trusted computing technology consulting; Customized construction of trusted computing facilities at very low cost; Join a trusted alliance for revenue sharing.
+
+Official website: https://plibra.io 
+White paper: https://files.libra-china.org/phala-paper.pdf 
+
+Litentry
+
+Based on the cross-chain ecosystem of Polkadot, Litentry is based on the cryptography of blockchain to enhance the security of user privacy data, ensuring distributed management of storage, authentication, relationship and source information, and ensuring different information layers. Trusted sharing, the realization of cross-link cross-platform identity information interconnection, allowing users to more easily and safely use the virtual identity in the Internet.
+
+Architecture:
+
+
+Substrate Module Standard Definition
+
+
+Lock parachain demo: 
+
+https://video.wixstatic.com/video/760d3a_fd3919e6e8944f5d8684b7224f84675b/1080p/mp4/file.mp4 
+
+Official website: https://www.litentry.com 
+Lite Paper: https://8e05e2d3-ada2-45dd-8426-b69a066e9210.filesusr.com/ugd/760d3a_8189a4a6eba9472cacc24fdf499b7e94.pdf 
+GitHub: https://github.com/litentry/
+
+Candaq incubates PolkaBase
+
+The incubator of PolkaBase, Candaq Group, based in Berlin, Silicon Valley, Singapore, Beijing, Shanghai, Hangzhou, Shenzhen, has been a fintech and blockchain front-runner for years.
+
+
+Moke Lin, CEO of Candaq, on the incubation of Polkadot Ecosystem
+
+In 2013, Candaq created and still maintained the nice running of China¡¯s first cryptocurrency, ZCC. And in 2014, we initiated a series of impactful crypto-based charity events. 
+
+Throughout years, Candaq has incubated and participated in world¡¯s best-known projects, including ICO.com, CertiK, ThunderCore, Harmony, RChain, and as the first-round seed investor of Polkadot.
+
+Our Next Steps:
+
+The Polkadot technology in blockchain technology is the basis for multi-platform multi-project data communication and communication. The technology ecology created by PolkaBase is to popularize this technology into the projects and industries that can be landed. .
+At present, PolkaBase has initially established cooperation with the domestic technical community, industrial industry, open source community, language community, software community and continued to advance.
+
+
+Charlie Hu, the Polkadot community contributor and leading member of PolkaBase
+
+?The boost up of globalisation with our partners in Berlin and Singapore£¬
+?To promote more online activities, we will conduct more online live video solutions on the polkadot technical level, ecological projects, and industrial applications in the form of online video; and face-to-face interview video production of the polkadot ecosystem£¬
+?Strengthening the production of its own media content and partner media cooperation: the output of technical content, industry content, open source content, practical operation of the code language, and cooperation with international media at all levels£¬
+?Continue to deepen the links between China's open source community and the programming language community, from COSCon, to build bridges between the blockchain and the software industry, and create more opportunities for Polkadot to land.
+
+Stay Tuned with Us:
+Twitter: PolkaBase https://twitter.com/Polkabase_com?s=17 
+Medium: PolkaBase https://medium.com/@polkabase 
+WeChat Official Account: PolkaBase
+YouTube: PolkaBase https://www.youtube.com/channel/UCquHLrpaU96VpI041FuIOOw/featured 
+
+
+Appreciate for Reading!
+
+We ¡°sprayed¡± many gifts to many of our attendees, Kusama the Canary Network Limited T-shirt in ¡°No promises Edition¡± and ¡°Pink Canary Edition¡±, our limited PolkaBase hoodie, 
+
+This sharing session is the first sharing event by PolkaBase, held in China. In addition to several cutting-edge blockchain projects, it also invited foreign visiting guests, traditional industry guests and partners of the developer community to discuss the technology with blockchain£¡
+
+Combine cross-domain opportunities and collaboration, in the future, we will continue to pay attention to the promotion and landing of cross-chain technology in China, and continue to find breakthroughs in cooperation between industries£¡
+
+Sweat ending of the first meetup with splendid attendees and guests
+
+Appreciation to All of Our Partners for Their Supports!
+
+Please Keep Staying Tuned with Us:
+Twitter: PolkaBase https://twitter.com/Polkabase_com?s=17 
+Medium: PolkaBase https://medium.com/@polkabase 
+WeChat Official Account: PolkaBase
+YouTube: PolkaBase https://www.youtube.com/channel/UCquHLrpaU96VpI041FuIOOw/featured 
